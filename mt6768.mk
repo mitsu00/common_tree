@@ -404,6 +404,9 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service-lazy.mt6768
 
 PRODUCT_PACKAGES += \
+    android.hardware.tetheroffload.config@1.0
+
+PRODUCT_PACKAGES += \
     libkeystore-wifi-hidl \
     libkeystore-engine-wifi-hidl
 
