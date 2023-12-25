@@ -1,6 +1,4 @@
 # Audio
-vendor.audio.chk.                    			u:object_r:vendor_mtk_audiohal_prop:s0
-vendor.audio.mic.                    			u:object_r:vendor_mtk_audiohal_prop:s0
 vendor.audio.spkcal.copy.inhal                          u:object_r:vendor_mtk_audiohal_prop:s0
 
 # Camera
@@ -12,7 +10,6 @@ persist.vendor.camera.                                  u:object_r:vendor_mtk_ca
 persist.camera.module.                                  u:object_r:vendor_mtk_camera_prop:s0
 
 # Fingerprint
-persist.vendor.sys.fp.                                  u:object_r:vendor_fingerprint_prop:s0
 vendor.fps_hal.                                         u:object_r:vendor_fingerprint_prop:s0
 
 # Thermal
