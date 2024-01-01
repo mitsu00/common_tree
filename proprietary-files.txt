@@ -530,7 +530,6 @@ vendor/firmware/mt6631_fm_v1_patch.bin
 vendor/firmware/novatek_ts_fw.bin
 vendor/firmware/novatek_ts_mp.bin
 vendor/firmware/soc1_0_patch_mcu_1a_1_hdr.bin
-vendor/firmware/soc1_0_ram_bt_1a_1_hdr.bin
 vendor/firmware/soc1_0_ram_mcu_1a_1_hdr.bin
 vendor/firmware/soc1_0_ram_wifi_1a_1_hdr.bin
 vendor/firmware/soc3_0_ram_bt_1_1_hdr.bin
@@ -613,6 +612,9 @@ vendor/lib/hw/gatekeeper.beanpod.so
 vendor/lib/hw/libSoftGatekeeper.so
 vendor/lib64/hw/gatekeeper.beanpod.so
 vendor/lib64/hw/libSoftGatekeeper.so
+
+# Firmware - from A145PXXU1AWA3
+vendor/firmware/soc1_0_ram_bt_1a_1_hdr.bin|9cd0d79cde76a59ddd8545b1621af1176c5f9605
 
 # Keymaster
 vendor/bin/hw/android.hardware.keymaster@4.0-service.beanpod
