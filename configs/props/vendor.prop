@@ -218,6 +218,9 @@ import /vendor/build_${ro.boot.radio.multisim.config}_vendor.prop
 ro.vendor.mtk_shutdown_support=0
 init.userspace_reboot.is_supported=true
 
+# Skia
+renderthread.skia.reduceopstasksplitting=true
+
 # SurfaceFlinger
 ro.surface_flinger.primary_display_orientation=ORIENTATION_0
 ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
